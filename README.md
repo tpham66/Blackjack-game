@@ -1,3 +1,3 @@
-# CS342-Blackjack-game
-This is part of CS342 course (Software Design) I took in Spring 2024 UIC.
+# Blackjack-game
+This is a classical offline blackjack game
 This coursework was done individually.
